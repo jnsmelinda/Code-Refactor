@@ -8,4 +8,4 @@
 * removing float-left and float-right classees
 * removing online-reputation-management and social-media-marketing id-s
 * benefits section compacted and benefit-brand, benefit-lead and benefit-cost classes removed
-* 
+* header lass changed to header tag and logo and menu classes created
