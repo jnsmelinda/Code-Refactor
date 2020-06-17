@@ -11,3 +11,6 @@
 * content h2 to h1
 * content-menu class name to generalize instead of unique ones with same content
 * generalizing p tag
+* adding alternate text to the images
+* footer bottom margin fixed
+
