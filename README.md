@@ -10,3 +10,4 @@
 * header lass changed to header tag and logo and menu classes created
 * content h2 to h1
 * content-menu class name to generalize instead of unique ones with same content
+* generalizing p tag
