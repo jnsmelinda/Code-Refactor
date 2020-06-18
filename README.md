@@ -29,6 +29,7 @@ Applying best practices to HTML and CSS files while maintaining original functio
 * footer bottom margin fixed
 * section and article added
 * main navigation added
+* added favicon
 
 ## Others:
 Original files and desing are from the University of Washington coding bootcamp.
