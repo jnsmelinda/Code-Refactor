@@ -4,7 +4,7 @@ Applying best practices to HTML and CSS files while maintaining original functio
 ## Contributors:
 * Melinda Ivanov
 
-# Link:
+## Link:
 * https://jnsmelinda.github.io/UW-HW1
 
 ## Technologies:
@@ -12,7 +12,6 @@ Applying best practices to HTML and CSS files while maintaining original functio
 * CSS
 * Git, GitHub
 * Github pages
-* 
 
 ## Changes:
 * title name
