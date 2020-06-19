@@ -22,13 +22,13 @@ Applying best practices to HTML and CSS files while maintaining original functio
 * fixing online-reputation-management and social-media-marketing and search engine optimazation id-s
 * benefits section compacted and benefit-brand, benefit-lead and benefit-cost classes removed
 * header lass changed to header tag and logo and menu classes created
-* content h2 to h1
+* h1, h2, h3 use according to standards
 * changing to content-menu class name instead of unique ones
 * generalizing p tag
 * adding alternate text to the images
 * footer bottom margin fixed
-* section and article added
-* main navigation added
+* main, section and article added
+* "main" navigation added
 * added favicon
 
 ## Others:
