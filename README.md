@@ -28,6 +28,11 @@ Applying best practices to HTML and CSS files while maintaining original functio
 - main, section and article added
 - "main" navigation added
 - added favicon
+- benefits class changed to aside
+- "seo" span to "emphasize"
+- simplifying menu
+- fixing article id-s and classes
+- footer id and indentation
 
 ## Others
-Original files and desing are from the University of Washington coding bootcamp.
+Original files and desing are from the [University of Washington coding bootcamp](https://bootcamp.uw.edu/).
