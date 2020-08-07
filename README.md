@@ -1,4 +1,4 @@
-# UW-HW1
+# Code Refactor
 Applying best practices to HTML and CSS files while maintaining original functionality and design.  
 **Author:** Melinda Ivanov
 
